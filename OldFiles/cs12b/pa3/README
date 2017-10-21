@@ -1,0 +1,16 @@
+//README
+//Camille Rogers
+//carogers
+//pa3, 12B
+//table of contents
+
+Contents:
+-README 
+-Dictionary.java
+-DictionaryTest.java
+-DuplicateKeyException.java
+-KeyNotFoundException.java
+-DictionaryInterface.java
+-DictionaryClient.java
+-Makefile
+

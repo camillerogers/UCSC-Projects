@@ -1,0 +1,3 @@
+gcc  -c -g -Wall -O0 -std=c99 -D_SVID_SOURCE hex.c
+gcc  -c  -g -Wall -O0 -std=c99 -D_SVID_SOURCE  readline.c
+gcc  -o hex  -g -Wall -O0 -std=c99 -D_SVID_SOURCE hex.o  readline.o

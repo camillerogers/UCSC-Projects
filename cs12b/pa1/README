@@ -1,0 +1,15 @@
+//README
+//Camille Rogers
+//carogers
+//12B
+//April 7, 2016
+//table of contents
+
+README: 
+   table of contents for pa1.
+
+Makefile
+   creates an executable jar file called Recursion. Removes all .class files and   the executable jar file from the current directory.
+
+Recursion.java
+   reverses a given array 3 different ways. Also returns the max and min index     number within the array. 

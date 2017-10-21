@@ -1,0 +1,21 @@
+//README
+//Camille Rogers
+//carogers
+//12M lab7
+//table of contents
+
+Contents:
+
+-DictionaryInterface.java
+
+-DuplicateKeyException.java
+
+-KeyNotFoundException.java
+
+-DictionaryClient.java
+
+-Dictionary.java
+
+-Makefile
+
+-README

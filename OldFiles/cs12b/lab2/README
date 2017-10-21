@@ -1,0 +1,16 @@
+README
+Camille Rogers
+carogers
+12M
+April 10, 2016
+Table of contents
+
+-FileReverse.java:
+	reads each line of input, parse the tokens, then prints each token 
+        backards to the output file on a line by itself.
+
+-Makefile:
+	Makefile that complies and submits FileReverse.java.
+
+-README:
+	table of contents for lab2.

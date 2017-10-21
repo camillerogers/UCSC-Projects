@@ -1,0 +1,13 @@
+#RunLawn
+#Camille Rogers
+#carogers
+#lab3 
+#! /bin/bash
+# This sends information to Lawn.java from Lawn-in, and Lawn-out outputs from Lawn. It also removes the file Lawn.class and runs Lawn.java. 
+
+echo "compiling Lawn.java"
+javac Lawn.java >& Lawn-errs
+echo "running Lawn.class"
+java Lawn < Lawn-in > Lawn-out
+echo "deleting Lawn.class"
+rm Lawn.class

@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/g/carogers/cs12a/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  carogers rlidwka
+
+Access list for private is
+Normal rights:
+  carogers rlidwka
+
+total 7
+-rw-r--r--. 1 carogers users  426 Jan 15 19:26 HelloWorld.class
+drwxr-xr-x. 2 carogers users 2048 Jan 15 18:41 private
+-rwx------. 1 carogers users  193 Jan 15 19:27 prog
+drwxr-xr-x. 2 carogers users 2048 Jan 15 18:42 public
+-rw-r--r--. 1 carogers users  239 Jan 15 19:32 result
+
+Hello, lab2!

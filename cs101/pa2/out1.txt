@@ -1,0 +1,24 @@
+Array: 
+one
+two
+three
+four
+five
+
+List of indices: 
+4 
+3 
+0 
+2 
+1 
+
+Sorted Array: 
+five 
+four
+ 
+one
+ 
+three
+ 
+two
+ 

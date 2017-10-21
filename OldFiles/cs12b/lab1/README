@@ -1,0 +1,19 @@
+//Camille Rogers
+//carogers
+//12M
+//3/29/16
+//README
+//lab1
+//table of contents 
+
+README
+   a table of contents for the assignment, lists all the files being submitted 
+
+Makefile
+   creates .class files of HelloUser.class and HelloUser2.class in an executable   jar file called Hello and runs function main() from HelloUser2.class
+
+HelloUser.java
+   prints greeting to stdout, then prints out some environments information.
+
+HelloUser2.java
+   prints same thing as HelloUser.java excepts it prints out another phrase to     the stdout.  

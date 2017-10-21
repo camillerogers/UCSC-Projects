@@ -1,0 +1,19 @@
+//README
+//Camille Rogers
+//12B pa5
+//carogers
+//Table of Contents
+
+Contents:
+
+-README
+
+-Dictionary.c
+
+-Dictionary.h
+
+-DictionaryTest.c
+
+-DictionaryClient.c
+
+-Makefile 

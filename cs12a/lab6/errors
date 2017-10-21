@@ -1,0 +1,17 @@
+//errors
+//Camille Rogers
+//carogers
+//lab6
+//tells the errors found in LetterHome.class 
+
+error 1: If you input a code outside the numbers 1 through 5, then it will print out that the number is valid when it should say it is invalid. 
+
+error 2: In number 2, when inputing the numbers "2 4" it should print out "The weather here has been cold" but it instead prints out "The weather here has been hot." therefore having both inputs for 3 and 4 being the same.
+
+error 3: In number 3, when inputing the numbers "3 3" it should output "I plan to come home for a visit next weekend." but it prints out "I plan to come home for a visit last weekend".
+
+error 4: In number 4, it has the grammatical error of saying "Do you..I have to buy another books..." but it should say "Do you...I have to buy another book..." no plural on books. 
+
+error 5: In number 5, when inputing "5 2" it needs a period after the statement "Thanks for the cookies you sent". 
+
+error 6: When inputing 5 and a number greater than 3, it should print out "Thanks for the ERROR you sent.", but instead it prints out "Thanks for the ERROR". 
